@@ -34,8 +34,8 @@ public class PointApp {
 		System.out.println(p02.equals(p03));
 		
 		System.out.println("------------------------");
-		System.out.println(p00 == p01);
-		System.out.println(p00.equals(p01));
+		System.out.println(p00 == p01); //주소
+		System.out.println(p00.equals(p01)); //
 		
 	}
 
